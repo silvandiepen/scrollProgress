@@ -34,6 +34,6 @@ Install the script with bower or make your own files
 
 ```
 
-bower install scrollprogress --save
+bower install jquery.scrollprogress --save
 
 ```
